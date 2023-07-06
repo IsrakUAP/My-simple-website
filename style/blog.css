@@ -22,12 +22,13 @@ height: 100px;
 .link{
     display: flex;
     justify-content: space-around;
-    text-decoration:brown;
     list-style: none;
-    text-decoration: none;
 }
 .lk{
     margin-right: 10px;
     
     
+}
+a{
+    text-decoration: none;
 }
